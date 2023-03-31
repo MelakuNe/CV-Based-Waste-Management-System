@@ -5,7 +5,7 @@ This is a computer vision based automatic waste management system built as a dem
 ## 2 Annotatioin for object detection using computer vision annotation tool https://www.cvat.ai/
 ![image](https://user-images.githubusercontent.com/96078343/229242924-0587d45d-d179-420e-a717-954aedb5e0a5.png)
 ## 3 Train YOLO v8 model
-## 4 Deploy the trained model with real time input from idustrial video camera
+## 4 Deploy the trained model with real time input from industrial video camera
 
 https://user-images.githubusercontent.com/96078343/229243202-fb0c706e-1d6f-4539-9ee1-02596fde80d2.mp4
 
